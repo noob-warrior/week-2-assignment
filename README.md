@@ -1,0 +1,1 @@
+sir i couldn't add the routes myself. i tried to figure it out on my own but couldn't seem to get it right. to add the routes, i did use chat gpt but i did my best to understand the process of how it was done.
