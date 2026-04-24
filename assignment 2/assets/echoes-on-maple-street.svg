@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6e3d9" />
+      <stop offset="100%" stop-color="#d8c1b0" />
+    </linearGradient>
+    <filter id="blur" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#a47b67" flood-opacity="0.18" />
+    </filter>
+  </defs>
+  <rect width="400" height="600" rx="36" fill="url(#grad)" />
+  <rect x="40" y="58" width="320" height="420" rx="28" fill="#fff" filter="url(#blur)" />
+  <path d="M72 508c40-30 114-26 156-10 38 15 69 25 104 6" fill="none" stroke="#8a4a2f" stroke-width="10" stroke-linecap="round" />
+  <g transform="translate(80 110)">
+    <rect width="240" height="16" rx="8" fill="#8a4a2f" />
+    <rect y="40" width="240" height="16" rx="8" fill="#b86a4d" />
+    <rect y="80" width="200" height="16" rx="8" fill="#8a4a2f" />
+    <rect y="120" width="180" height="16" rx="8" fill="#b86a4d" />
+    <rect y="160" width="220" height="16" rx="8" fill="#8a4a2f" />
+    <rect y="200" width="160" height="16" rx="8" fill="#b86a4d" />
+  </g>
+  <text x="200" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="32" fill="#5b3425" font-weight="700">Echoes</text>
+  <text x="200" y="400" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#7a4d3a">on Maple Street</text>
+  <text x="200" y="455" text-anchor="middle" font-family="Verdana, sans-serif" font-size="16" fill="#805343">Nina Fernandes</text>
+</svg>

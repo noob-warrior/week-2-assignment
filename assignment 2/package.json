@@ -1,0 +1,9 @@
+{
+  "name": "assignment-2-book-explorer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple React book explorer assignment",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
